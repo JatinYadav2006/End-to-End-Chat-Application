@@ -28,7 +28,7 @@ CHAT_ENGINE_PRIVATE_KEY=49a46286-91c3-4f9c-92bf-284ae51b7628
 
 ### 3 - Install & Start
 
-Run the following two lines of code in `server-express/`.
+Run the following two lines of code in `server-fastapi/`.
 
 ```
 python3 -m venv venv
